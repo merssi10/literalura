@@ -52,6 +52,7 @@ Salir:
 Finaliza la ejecución de la aplicación.
 
 Uso
+
 Al ejecutar la aplicación, se mostrará un menú interactivo en la consola:
 
 Seleccione una opción:
