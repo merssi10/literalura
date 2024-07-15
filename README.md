@@ -33,31 +33,28 @@ Haz clic derecho y selecciona Run 'LiteraluraApplication.main()'.
 Desde la línea de comandos:
 Navega al directorio raíz del proyecto (donde está ubicado el archivo pom.xml).
 Ejecuta mvn spring-boot:run.
+
 Funcionalidades
 La aplicación de consola LiterAlura permite las siguientes operaciones:
 
-Buscar y registrar libro por título
+Buscar y registrar libro por título:
+La persona usuaria ingresa el título del libro que desea buscar. La aplicación busca el libro en la API de Gutendex y, si lo encuentra, lo registra en la base de datos. Si el libro ya está registrado, informa a la persona usuaria que no puede registrar el mismo libro más de una vez.
 
-La persona usuaria ingresa el título del libro que desea buscar.
-La aplicación busca el libro en la API de Gutendex y, si lo encuentra, lo registra en la base de datos.
-Si el libro ya está registrado, informa a la persona usuaria que no puede registrar el mismo libro más de una vez.
-Listar todos los libros registrados
-
+Listar todos los libros registrados:
 Muestra una lista de todos los libros que han sido registrados en la base de datos.
-Listar todos los autores registrados
 
-Muestra una lista de todos los autores de los libros registrados en la base de datos.
-Listar autores vivos en un determinado año
-
+Listar autores vivos en un determinado año:
 La persona usuaria ingresa un año y la aplicación muestra una lista de autores que estaban vivos en ese año.
-Listar libros por idioma
 
+Listar libros por idioma:
 La persona usuaria ingresa un código de idioma (ES, EN, FR, PT) y la aplicación muestra una lista de libros registrados en ese idioma.
-Salir
 
+Salir:
 Finaliza la ejecución de la aplicación.
+
 Uso
 Al ejecutar la aplicación, se mostrará un menú interactivo en la consola:
+
 Seleccione una opción:
 1. Buscar y registrar libro por título
 2. Listar todos los libros registrados
@@ -65,6 +62,7 @@ Seleccione una opción:
 4. Listar autores vivos en un determinado año
 5. Listar libros por idioma
 6. Salir
+   
 Ingrese el número de la opción que desea seleccionar y siga las instrucciones que se muestran en pantalla.
 
 API de Gutendex
