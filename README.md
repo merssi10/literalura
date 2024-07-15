@@ -27,12 +27,10 @@ spring.jpa.hibernate.ddl-auto=update
 Ejecutar la aplicación:
 
 Desde IntelliJ IDEA:
-Abre el proyecto en IntelliJ.
-Navega hasta la clase LiteraluraApplication.
-Haz clic derecho y selecciona Run 'LiteraluraApplication.main()'.
+Abre el proyecto en IntelliJ. Navega hasta la clase LiteraluraApplication. Haz clic derecho y selecciona Run 'LiteraluraApplication.main()'.
+
 Desde la línea de comandos:
-Navega al directorio raíz del proyecto (donde está ubicado el archivo pom.xml).
-Ejecuta mvn spring-boot:run.
+Navega al directorio raíz del proyecto (donde está ubicado el archivo pom.xml).Ejecuta mvn spring-boot:run.
 
 Funcionalidades
 La aplicación de consola LiterAlura permite las siguientes operaciones:
