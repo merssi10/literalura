@@ -33,6 +33,7 @@ Desde la línea de comandos:
 Navega al directorio raíz del proyecto (donde está ubicado el archivo pom.xml).Ejecuta mvn spring-boot:run.
 
 Funcionalidades
+
 La aplicación de consola LiterAlura permite las siguientes operaciones:
 
 Buscar y registrar libro por título:
