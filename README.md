@@ -65,7 +65,8 @@ Seleccione una opción:
    
 Ingrese el número de la opción que desea seleccionar y siga las instrucciones que se muestran en pantalla.
 
-API de Gutendex
+API de Gutendex:
+
 Esta aplicación utiliza la API de Gutendex para buscar libros por título. Para más información sobre la API de Gutendex, visite gutendex.com.
 
 Contribuir
