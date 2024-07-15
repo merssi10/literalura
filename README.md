@@ -71,14 +71,18 @@ API de Gutendex
 Esta aplicación utiliza la API de Gutendex para buscar libros por título. Para más información sobre la API de Gutendex, visite gutendex.com.
 
 Contribuir
+
 Las contribuciones son bienvenidas. Para contribuir, siga estos pasos:
 
 Fork el repositorio.
+
 Cree una nueva rama (git checkout -b feature-nueva-funcionalidad).
 Realice los cambios necesarios y haga commit (git commit -am 'Agregar nueva funcionalidad').
 Push a la rama (git push origin feature-nueva-funcionalidad).
 Cree un nuevo Pull Request.
+
 Licencia
+
 Este proyecto está licenciado bajo la Licencia MIT. Consulte el archivo LICENSE para más detalles.
 
 Este README incluye una descripción del proyecto, instrucciones de configuración y ejecución, una explicación de las funcionalidades, y detalles sobre cómo contribuir al proyecto. Puedes ajustarlo según tus necesidades y agregar cualquier información adicional que consideres relevante.
